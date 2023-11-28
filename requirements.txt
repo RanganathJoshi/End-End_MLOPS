@@ -1,0 +1,9 @@
+pandas
+matplotlib
+mlflow==2.2.2
+numpy
+Flask
+tqdm
+scikit-learn
+
+
